@@ -1,0 +1,12 @@
+{
+  "name": "delete-docs",
+  "version": "1.0.0",
+  "description": "recursive delete all files ending with docx/doc in a folder.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["delete docx", "delete doc"],
+  "author": "SH",
+  "license": "ISC"
+}
